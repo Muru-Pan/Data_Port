@@ -58,6 +58,12 @@ const Hero = () => {
                         >
                             Hire Me
                         </a>
+                        <a
+                            href="#"
+                            className="px-8 py-4 bg-white/10 hover:bg-white/20 text-white font-bold rounded-sm transition-all flex items-center gap-2 border border-white/10"
+                        >
+                            Download CV
+                        </a>
                     </motion.div>
                 </div>
 
