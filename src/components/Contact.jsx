@@ -59,10 +59,10 @@ const Contact = () => {
                             </div>
 
                             <div className="flex gap-4 pt-4">
-                                <a href="https://linkedin.com/in/muruga-pandian" target="_blank" rel="noreferrer" className="p-3 bg-white/10 hover:bg-accent text-white rounded-full transition-all hover:-translate-y-1">
+                                <a href="https://www.linkedin.com/in/muruga-pandian-b4ab1928a/" target="_blank" rel="noreferrer" className="p-3 bg-white/10 hover:bg-accent text-white rounded-full transition-all hover:-translate-y-1">
                                     <Linkedin size={24} />
                                 </a>
-                                <a href="https://github.com/muruga-pandian" target="_blank" rel="noreferrer" className="p-3 bg-white/10 hover:bg-accent text-white rounded-full transition-all hover:-translate-y-1">
+                                <a href="https://github.com/Muru-Pan" target="_blank" rel="noreferrer" className="p-3 bg-white/10 hover:bg-accent text-white rounded-full transition-all hover:-translate-y-1">
                                     <Github size={24} />
                                 </a>
                             </div>
